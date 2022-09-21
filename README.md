@@ -23,5 +23,5 @@ Desenvolvedor iniciante, sem medo de falar 😌, focado atualmente no Front-End,
 ---
 
 <p align="center"> 
-<a href="https://rayzersrc.netlify.app/" title="the-process"><img src="./assets/home.svg" alt="Netlify link"/></a> <a href="https://codepen.io/rayzersrc" title="CodePen"><img src="./assets/codepen.svg" alt="CodePen link"/></a> <a href="https://www.linkedin.com/in/rayzersrc/" title="LinkedIn"><img src="./assets/linkedin.svg" alt="LinkedIn link"/></a> <a href="https://www.instagram.com/rayzersrc/" title="Instagram"><img src="./assets/instagram.svg" alt="Instagram link"/></a> <a href="./assets/discord.md" title="Discord: Rayzer#5812"><img src="./assets/discord.svg" alt="Discord"/></a>
+<a href="https://rayzersrc.netlify.app/" title="the-process"><img src="./assets/home.svg" alt="Netlify link"/></a> <a href="https://www.linkedin.com/in/rayzersrc/" title="LinkedIn"><img src="./assets/linkedin.svg" alt="LinkedIn link"/></a> <a href="https://www.instagram.com/rayzersrc/" title="Instagram"><img src="./assets/instagram.svg" alt="Instagram link"/></a> <a href="https://codepen.io/rayzersrc" title="CodePen"><img src="./assets/codepen.svg" alt="CodePen link"/></a> <a href="./assets/discord.md" title="Discord: Rayzer#5812"><img src="./assets/discord.svg" alt="Discord"/></a>
 </p>
